@@ -100,19 +100,13 @@ api-contract-platform/
 └── README.md
 ```
 
-### 7. Kế hoạch thực hiện 10 tuần
+### 7. Kế hoạch thực hiện 4 tuần
 | Thời gian | Công việc |
 | :--- | :--- |
-| Tuần 1 | Tìm hiểu REST API, OpenAPI, Swagger, JSON Schema, Contract Testing, Mock Server. Chốt phạm vi và yêu cầu. |
-| Tuần 2 | Phân tích Functional/Non-functional Requirements, Actor, Use Case, luồng nghiệp vụ. |
-| Tuần 3 | Thiết kế kiến trúc hệ thống, ERD, Database, API Design, Wireframe, Sequence Diagram và Activity Diagram. |
-| Tuần 4 | Thành viên 1 làm Authentication, Project, Member; thành viên 5 làm Login, Dashboard và Project UI. |
-| Tuần 5 | Thành viên 2 làm OpenAPI Import, Parser và API Endpoint Management; thành viên 5 làm giao diện API Specification. |
-| Tuần 6 | Thành viên 3 làm Contract Testing Engine, Schema Validation, Test Runner và Test Result. |
-| Tuần 7 | Thành viên 4 làm Mock Server, Dynamic Endpoint và Mock Response; thành viên 5 làm giao diện Mock Management. |
-| Tuần 8 | Tích hợp Frontend, Backend, Contract Engine, Mock Server và Database. |
-| Tuần 9 | Unit Test, Integration Test, API Test, System Test; Docker hóa và sửa lỗi. |
-| Tuần 10 | Hoàn thiện báo cáo, slide, demo script, test report, source code và video demo. |
+| Tuần 1 | Chốt phạm vi, phân tích yêu cầu, thiết kế kiến trúc hệ thống, ERD, Database. Xây dựng nền tảng cơ bản (Authentication, Project UI). |
+| Tuần 2 | Xây dựng chức năng Core: OpenAPI Import, Endpoint Management, Contract Testing Engine và các giao diện liên quan. |
+| Tuần 3 | Xây dựng Mock Server và hoàn thiện Test Runner. Tích hợp toàn bộ Frontend, Backend, Contract Engine và Mock Server. |
+| Tuần 4 | Kiểm thử (Unit/System Test), Docker hóa, sửa lỗi. Viết tài liệu, báo cáo, chuẩn bị slide, source code và video demo. |
 
 ### 8. Phạm vi MVP bắt buộc
 1. Authentication.
